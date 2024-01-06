@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dheerendra Mishra</h1>
-<h3 align="center">A passionate about Android Development, from India</h3>
+<h3 align="center">I am Strongly Passionate about Android Development, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerendra22&label=Profile%20views&color=0e75b6&style=flat" alt="dheerendra22" /> </p>
 
-- 💬 Ask me about **c & c++ , Java , Python , C# language**
+- 💬 Ask me about **c , c++ , Java , Python & C# languages**
 
-- 📫 How to reach me **dheerendramishra64646@gmail.co**
+- 📫 How to reach me **dheerendramishra64646@gmail.com**
 
-- ⚡ Fun fact **I an Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
