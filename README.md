@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dheerendra Mishra</h1>
-<h3 align="center">A passionate about coding in c++, from India</h3>
+<h3 align="center">A passionate about Android Development, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerendra22&label=Profile%20views&color=0e75b6&style=flat" alt="dheerendra22" /> </p>
 
-- 💬 Ask me about **c & c++ language**
+- 💬 Ask me about **c & c++ , Java , Python , C# language**
 
 - 📫 How to reach me **dheerendramishra64646@gmail.co**
 
